@@ -1,0 +1,71 @@
+#home {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/home.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-position-x: center;
+    
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+#home a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+#home p {
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#home h1 {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+ul, li{
+    text-align: right;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    padding-left: 50px;
+    font-size: 1.2rem;
+    color: #fff;
+}
+.collapse {
+    text-align: right;
+}
+cardd {
+    border: solid 5px #ffffff;
+}
+#Qmimet .progress {
+    background: #ffffff;
+}
+.progress-bar {
+    background-color: white;
+}
+#Qmimet span {
+    color: white;
+    font-weight: bold;
+    display: block;
+    padding-bottom: 6px;
+}
+#Qmimet small {
+    font-weight: bold;
+    float: right;
+    font-size: 85%;
+}
+.headh1 {
+    font-size: 5rem;
+  }
